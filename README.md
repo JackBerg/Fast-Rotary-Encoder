@@ -19,7 +19,9 @@ Note: Connections between the Rotary Encoder and Arduino UNO R3
               CLK--------------------------------Digital Pin 10 "PB2"
               
 This sketch as been tested and work correctly.
+
 Any suggestion / comments are welcome.
+
 Feel free to use this sketch, and does not contain any warranty.
 
 Thank's for sharing
