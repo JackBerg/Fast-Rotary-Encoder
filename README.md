@@ -1,11 +1,12 @@
 Hello & Welcome to my page
 
-This simple Arduino code is for a Mechanical or Optical Rotary Encoder with TTL output pulse A,B
-when connected , the code will detect the sense of rotation, upon detecting the rotation
-a timing pulse is provide on 2 different output pin for each direction.
+This simple Arduino code is for a Mechanical or Optical Rotary Encoder with output pulse A,B.
+While rotating, the code will detect the direction of rotation, upon detecting the rotation
+a timing pulse is issue on 2 different output pins for each direction.
 
 The setup (Arduino+Rotary) does not require any debouncing circuit, it's use instead
-the detection of states and enable a one shot latching pulse for each direction.
+the detection of states and enable what I call a "one shot latching pulse" function
+for each direction, the pulse use the  "_delay_ms()".
 
 Note: Connections between the Rotary Encoder and Arduino UNO R3
       (GND/VCC inverted to use the 10k resistor as Pulldown)
@@ -22,3 +23,4 @@ Any suggestion / comments are welcome.
 Feel free to use this sketch, and does not contain any warranty.
 
 Thank's for sharing
+Jack Berg.
