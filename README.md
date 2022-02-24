@@ -9,6 +9,7 @@ the detection of states and enable what I call a "one shot latching pulse" funct
 for each direction, the pulse use the  "_delay_ms()" function.
 
 Note: Connections between the Rotary Encoder and Arduino UNO R3
+
       (GND/VCC inverted to use the 10k resistor as Pulldown)
 
               Rotary Encoder                    Arduino UNO
