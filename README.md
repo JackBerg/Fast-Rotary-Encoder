@@ -5,6 +5,7 @@ a timing pulse is provide on 2 different output pin.
 This setup (Arduino+Rotary) does not require any debouncing circuit, it's use instead
 the states of input A and B as switch or TTL driver to detect and enable a one shot latching pulse on 
 either direction.
+
 Feel free to use theses codes, and does not contain any warranty.
 
 Thank's for sharing
