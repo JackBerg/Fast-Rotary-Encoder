@@ -6,7 +6,7 @@ a timing pulse is issue on 2 different output pins for each direction.
 
 The setup (Arduino+Rotary) does not require any debouncing circuit, it's use instead
 the detection of states and enable what I call a "one shot latching pulse" function
-for each direction, the pulse use the  "_delay_ms()".
+for each direction, the pulse use the  "_delay_ms()" function.
 
 Note: Connections between the Rotary Encoder and Arduino UNO R3
       (GND/VCC inverted to use the 10k resistor as Pulldown)
