@@ -26,9 +26,24 @@ Tested also on ATTiny85 with PortBx modifications.
 
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
+
+U P D A T E : 
+ *  R E V I S I O N : Feb 26-2022
+ *  Removed "buttonStateA,B" function, replace with bitRead(x, n) 
+ *  easier coding to read single bit from PORT
+ *  Sketch uses 248 bytes (0%) of program storage space.
+ *  Global variables use 2 bytes (0%) of dynamic memory
+
+
+
+
 Any suggestion / comments are welcome.
 
 Feel free to use this sketch, and does not contain any warranty.
 
 Thank's for sharing
+
+
+
+
 
