@@ -28,6 +28,7 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
 
 U P D A T E : 
+ *  Sketch File: "Rotary_Mech_Button_248bytes.ino"
  *  R E V I S I O N : Feb 26-2022
  *  Removed "buttonStateA,B" function, replace with bitRead(x, n) 
  *  easier coding to read single bit from PORT
