@@ -34,8 +34,7 @@ U P D A T E :
  *  easier coding to read single bit from PORT
  *  Sketch uses 248 bytes (0%) of program storage space.
  *  Global variables use 2 bytes (0%) of dynamic memory
-
-
+ *  Added No Comments file
 
 
 Any suggestion / comments are welcome.
