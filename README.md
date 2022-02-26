@@ -22,12 +22,7 @@ Note: Connections between the Rotary Encoder and Arduino UNO R3
 
 This sketch as been written under Arduino IDE 1.8.19, and tested.
 
-Sketch uses 3386 bytes (10%) of program storage space. Maximum is 32256 bytes.
-
-Global variables use 262 bytes (12%) of dynamic memory, leaving 1786 bytes for local variables. Maximum is 2048 bytes.
-
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
-
 
 Any suggestion / comments are welcome.
 
