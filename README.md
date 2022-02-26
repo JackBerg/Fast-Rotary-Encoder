@@ -22,7 +22,7 @@ Note: Connections between the Rotary Encoder Board and Arduino UNO R3
 
 This sketch as been written under Arduino IDE 1.8.19, and tested for ATMEGA328P.
 
-Work also on ATTiny85 with PortBx modifications.
+Tested also on ATTiny85 with PortBx modifications.
 
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
