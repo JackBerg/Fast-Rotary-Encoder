@@ -26,7 +26,7 @@ Also on ATTiny85 with PortBx modifications.
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
  U P D A T E : 
- *  Sketch File: "Rotary_Mech_Button_244_bytes_No_Comments"
+ *  Sketch File: "Rotary_Mech_Button_242_bytes_No_Comments"
  *  Feb 26-2022
  *  Removed "buttonStateA,B" function, replace with bitRead(x, n) 
  *  easier coding to read single bit from PORTx
