@@ -1,12 +1,10 @@
 Hello & Welcome to my page
 
-This simple Arduino code is for a Mechanical or Optical Rotary Encoder or Tactile switch with output pulse A,B.
-While rotating, the code will detect the direction of rotation, upon detecting the rotation
-a timing pulse is send to either 2 output pins for each respective direction.
+This Arduino Sketch is for a Mechanical or Optical Rotary Encoder or Tactile switch with A,B output signal.
+a timing pulse controlled by the  "_delay_ms()" function, is send for each respective direction.
 
-The setup (between the Rotary board and Arduino UNO) does not require any debouncing circuit, instead it's use
-the detection of states and enable what I call a "one shot latching pulse" function for each direction
-the pulse timing is controlled by the  "_delay_ms()" function.
+The setup does not require any debouncing circuit, instead it's use
+the detection of states and enable a "one shot latching pulse" function. 
 
 Note: Connections between the Rotary Encoder Board and Arduino UNO R3
 
