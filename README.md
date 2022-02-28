@@ -23,11 +23,11 @@ This sketch as been written under Arduino IDE 1.8.19, and tested for ATMEGA328P 
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
  U P D A T E : 
- *  Sketch File: "Rotary_Mech_Button_248_bytes_No_Comments"
+ *  Sketch File: "Rotary_Mech_Button_246_bytes_No_Comments"
  *  Feb 28-2022
  *  Removed "buttonStateA,B" function, replace with bitRead(x, n) 
  *  easier coding to read single bit from PORTx
- *  Sketch uses 248 bytes (0%) of program storage space.
+ *  Sketch uses 246 bytes (0%) of program storage space.
  *  Global variables use 2 bytes (0%) of dynamic memory.
  *  Feel free to use this sketch, without any warranty.
 
