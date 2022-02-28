@@ -32,7 +32,7 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  Global variables use 2 bytes (0%) of dynamic memory.
  *  Feel free to use this sketch, without any warranty.
 
-Thank's for share
+
 
 
 
