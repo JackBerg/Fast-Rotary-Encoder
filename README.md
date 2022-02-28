@@ -28,11 +28,11 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  Feb 27-2022
  *  Removed "buttonStateA,B" function, replace with bitRead(x, n) 
  *  easier coding to read single bit from PORTx
- *  Sketch uses 242 bytes (0%) of program storage space. Maximum is 32256 bytes.
- *  Global variables use 2 bytes (0%) of dynamic memory, leaving 2046 bytes for local variables. Maximum is 2048 bytes.
+ *  Sketch uses 242 bytes (0%) of program storage space.
+ *  Global variables use 2 bytes (0%) of dynamic memory.
  *  Feel free to use this sketch, without any warranty.
 
-Thank's for sharing
+Thank's for share
 
 
 
