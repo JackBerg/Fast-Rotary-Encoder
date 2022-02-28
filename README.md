@@ -18,8 +18,7 @@ Note: Connections between the Rotary Encoder Board and Arduino UNO R3
               CLK--------------------------------Digital Pin 10 "PB2"
               
 
-This sketch as been written under Arduino IDE 1.8.19, and tested for ATMEGA328P.
-Also on ATTiny85 with PortBx modifications.
+This sketch as been written under Arduino IDE 1.8.19, and tested for ATMEGA328P and ATTiny85 with PortBx modifications.
 
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
 
