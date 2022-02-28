@@ -30,8 +30,7 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  
  *  Sketch uses 246 bytes (0%) of program storage space.
  *  Global variables use 2 bytes (0%) of dynamic memory.
- *  Feel free to use this sketch, without any warranty.
-   
+ *  -
  *  Added Arduino code Sketch: Rotary_Mech_Button_Arduino.ino
  *  uses 1136 bytes (3%) of program storage space.
  *  Global variables use 13 bytes (0%) of dynamic memory.
