@@ -1,10 +1,18 @@
 Hello & Welcome to my page
 
+As a new hobby, I decided to get familiar and learn a new programming language C++, with a Arduino UNO R3, so this is my very first project. 
+In the past 30 years, I did some programming with Microsoft Visual Basic, Picaxe, PBP3.0.
+
+Thanks to many Youtubers like Ralph S.Bacon, NerdRalph and DroneBot Workshop, to name a few for helping me learning C++ and Arduino.
+
+My new challenge to learn C++ lead me to choose Arduino for some obvious reasons as, popularity,and the availability 
+of many microcontrollers available for more then 10 years, and a steady ever growing community that support it's development.
+
 This Arduino Sketch is for a Mechanical or Optical Rotary Encoder or Tactile switch with A,B output signal.
 a timing pulse controlled by the  "_delay_ms()" function, is send for each respective direction.
 
 The setup does not require any debouncing circuit, instead it's use
-the detection of states and enable a "one shot latching pulse" function. 
+the detection of states as a "one shot latching pulse".
 
 Note: Connections between the Rotary Encoder Board and Arduino UNO R3
 
@@ -35,8 +43,5 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  uses 1136 bytes (3%) of program storage space.
  *  Global variables use 13 bytes (0%) of dynamic memory.
 
-Use this sketch, without any warranty
-
-Thank's for sharing
-
+    This sketch is free to use and share, without any warranty.
 
