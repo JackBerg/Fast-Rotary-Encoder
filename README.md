@@ -37,7 +37,7 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  VCC  --------  VCC
  *  GND  --------  GND
  *  CLK  --------  PINB,2
- *  DT   --------  PINB,3
+ *  DT    --------  PINB,3
  *  SW   -- N.C.-  NOT USE
  
  U P D A T E : March 2 -2022
