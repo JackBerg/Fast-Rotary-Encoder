@@ -34,14 +34,19 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  U P D A T E : March 1 -2022
 
  *  Use regular connections between the Rotary Encoder MODEL: EC11 and Arduino.
- *  
- *                  VCC  --------  VCC
- *                  GND  --------  GND
- *                  CLK  --------  PINB,2
- *                  DT   --------  PINB,3
- *                  SW   -- N.C.-  NOT USE
+ *  VCC  --------  VCC
+ *  GND  --------  GND
+ *  CLK  --------  PINB,2
+ *  DT   --------  PINB,3
+ *  SW   -- N.C.-  NOT USE
  
-    
+ U P D A T E : March 2 -2022
+
+*  Added Rotary Schematic
+*  PCB Layout 26 x 18 mm
+*  
+ 
+     
     This sketch is free to use and share, without any warranty.
      
      
