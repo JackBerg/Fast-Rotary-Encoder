@@ -14,18 +14,6 @@ a timing pulse controlled by the  "_delay_ms()" function, is send for each respe
 The setup does not require any debouncing circuit, instead it's use
 the detection of states as a "one shot latching pulse".
 
-Note: Connections between the Rotary Encoder Board and Arduino UNO R3
-
- (GND/VCC inverted to use the Rotary Encoder 10k resistor as Pulldown)
-
-              Rotary Encoder                    Arduino UNO
-              GND--------------------------------VCC 5v  
-              VCC--------------------------------GND  
-              Switch----------not used-----------N.C.
-              DT---------------------------------Digital Pin 11 "PB3"
-              CLK--------------------------------Digital Pin 10 "PB2"
-              
-
 This sketch as been written under Arduino IDE 1.8.19, and tested for ATMEGA328P and ATTiny85.
 
 Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
@@ -43,5 +31,17 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  uses 1136 bytes (3%) of program storage space.
  *  Global variables use 13 bytes (0%) of dynamic memory.
 
-    This sketch is free to use and share, without any warranty.
+ U P D A T E : March 1 -2022
+
+ *  Use regular connections between the Rotary Encoder MODEL: EC11 and Arduino.
+ *  
+ *                  VCC  --------  VCC
+ *                  GND  --------  GND
+ *                  CLK  --------  PINB,2
+ *                  DT   --------  PINB,3
+ *                  SW   -- N.C.-  NOT USE
+ 
+     This sketch is free to use and share, without any warranty.
+     
+     
 
