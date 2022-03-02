@@ -41,7 +41,8 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *                  DT   --------  PINB,3
  *                  SW   -- N.C.-  NOT USE
  
-     This sketch is free to use and share, without any warranty.
+    
+    This sketch is free to use and share, without any warranty.
      
      
 
