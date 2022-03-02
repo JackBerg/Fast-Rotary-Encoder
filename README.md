@@ -26,13 +26,13 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  
  *  Sketch uses 246 bytes (0%) of program storage space.
  *  Global variables use 2 bytes (0%) of dynamic memory.
- *  -
+ *  
  *  Added Arduino code Sketch: Rotary_Mech_Button_Arduino.ino
  *  uses 1136 bytes (3%) of program storage space.
  *  Global variables use 13 bytes (0%) of dynamic memory.
-
+ *
  U P D A T E : March 1 -2022
-
+ *
  *  Use regular connections between the Rotary Encoder MODEL: EC11 and Arduino.
  *  VCC  --------  VCC
  *  GND  --------  GND
@@ -41,10 +41,10 @@ Youtube Video Demo:  https://www.youtube.com/watch?v=w7fJdX4Nkaw
  *  SW   -- N.C.-  NOT USE
  
  U P D A T E : March 2 -2022
-
-*  Added Rotary Schematic
-*  PCB Layout 26 x 18 mm
-*  
+ *  
+ *  Added Rotary PIC12F683 Schematic 
+ *  PCB Layout 26 x 18 mm (PCB footprint)
+ *  
  
      
     This sketch is free to use and share, without any warranty.
