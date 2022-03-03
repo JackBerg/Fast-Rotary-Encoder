@@ -1,5 +1,6 @@
 Hello & Welcome to my page
 
+Positive pulses A and B are process, and directions.
 
  
      
